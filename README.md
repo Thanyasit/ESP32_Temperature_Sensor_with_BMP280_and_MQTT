@@ -1,7 +1,8 @@
 # ESP32 Temperature Sensor with BMP280 and MQTT
 ## Description
 
-This program reads the temperature from a BMP280 sensor connected to an ESP32 board and publishes it to an MQTT broker. The ESP32 will go to sleep for a specified amount of time and wake up periodically to read the temperature and publish it to the broker.
+This program reads the temperature from a BMP280 sensor connected to an ESP32 board and publishes it to an MQTT broker. The ESP32 will go to sleep for a specified amount of time and wake up periodically to read the temperature and publish it to the broker.<br>
+<b>2022</b>
 
 ## Installation
 
